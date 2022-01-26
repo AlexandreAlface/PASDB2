@@ -7,11 +7,13 @@
     ],
   "ComidasPorPedido": [
       {
+        "Id": 1,
         "IdPedido": 1,
         "IdComida": 1,
         "Quantidade": 2
       },
       {
+        "Id": 2,
         "IdPedido": 1,
         "IdComida": 2,
         "Quantidade": 1
